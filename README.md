@@ -45,4 +45,10 @@ Run `make`, an executable called `fillit` should compile directly.
 ##..
 .#..
 .#..
+~ ./fillit test5.txt
+CCBB.
+.C.BB
+.C.EE
+AAAAE
+DDDDE
 ```
