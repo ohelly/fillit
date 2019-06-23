@@ -1,6 +1,9 @@
 # fillit
 
 Group project with dtoy.
+
+- For more details regarding the project see subject.en.pdf.
+
 Can you feel it?
 
 How to fit an elephant in a glass of whiskey ?
@@ -10,8 +13,6 @@ Fillit is a project who let you discover and/or familiarize yourself with a recu
 Fillit does not consist of recoding Tetris, even if it’s still a variant of this game. The program takes a file as parameter which contains a list of Tetriminos and arranges them to create the smallest square possible. Obviously, main goal is to find this smallest square in the minimal amount of time, despite a exponentially growing number of possibilities each time a piece is added.
 
 The program must display the smallest square solution on the standard output. To identify each Tetriminos in the square solution, you will assign a capital letter (starting with ’A’) to each Tetriminos in the order they appear in the file. A file will contain 26 Tetriminos maximum. If the file contains at least one error, the program must display error on the standard output and exit properly.
-
-- For more details regarding the project see subject.en.pdf.
 
 ## Compiling
 
