@@ -2,7 +2,7 @@
 
 Group project with dtoy.
 
-- For more details regarding the project see subject.en.pdf.
+**For more details regarding the project see subject.en.pdf.**
 
 Can you feel it?
 
