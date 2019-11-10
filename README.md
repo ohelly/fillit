@@ -1,6 +1,6 @@
 # fillit
 
-Group project with dtoy.
+Group project with [sladkoyy](https://github.com/sladkoyy)
 
 **For more details regarding the project see [subject.en.pdf.](https://github.com/ohelly/fillit/blob/master/subject.en.pdf)**
 
